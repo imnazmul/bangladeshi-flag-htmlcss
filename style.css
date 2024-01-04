@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main-section{
+    height: 100vh;
+    background-color: blanchedalmond;
+}
+.flag-gs{
+    height: 250;
+    width: 500;
+    background-color: green; 
+}
